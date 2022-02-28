@@ -1,0 +1,19 @@
+  Jaguar:
+Athul,Bijin, Kavin Kumar,Kavya,Pallavi.
+
+Creative Coders:
+Aparna,Fousiya, Libya, Sudarshanam,Vaishak
+
+ Lord of the Codes:
+Ajay,Binsu Susan,Parvathi,Sam Issac,Santosh,Vignesh,
+
+Code Ninjas:
+Aditya, AnanthaKrishnan,jagan, Minnu,Nithin,Riyamol 
+************************************
+
+1.Quiz on Cloud Computing:
+Every team prepares no.of questions equivalent to no.of members.
+Each member prepares unique questions , no duplication.
+Confined to the discussed topics only.
+
+
